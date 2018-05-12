@@ -1,0 +1,38 @@
+_repo: Austral-English--13-A-dictionary-of-Australasian-words-phrases-and-usages-with-those-aborigin__27977
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morris, Edward Ellis
+    alias: Morris, E. E. (Edward Ellis)
+    birthdate: 1843
+    deathdate: 1901
+    gutenberg_agent_id: '33054'
+    url: http://www.gutenberg.org/2009/agents/33054
+description: ''
+gutenberg_bookshelf:
+- New Zealand
+- Australia
+gutenberg_issued: '2009-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27977'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- New Zealand -- Dictionaries'
+- !lcsh 'English language -- Australasia -- Dictionaries'
+- !lcc 'PE'
+- !lcsh 'Maori language -- Influence on English -- Dictionaries'
+- !lcsh 'English language -- Australia -- Dictionaries'
+- !lcsh 'Australian languages -- Influence on English -- Dictionaries'
+- !lcsh 'English language -- Foreign words and phrases -- Maori'
+title: "Austral English\r\nA dictionary of Australasian words, phrases and usages\
+  \ with those aboriginal-Australian and Maori words which have become incorporated\
+  \ in the language, and the commoner scientific words that have had their origin\
+  \ in Australasia"
+url: http://www.gutenberg.org/ebooks/27977
