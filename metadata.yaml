@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33054'
     url: http://www.gutenberg.org/2009/agents/33054
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27977#Austral-English--13-A-dictionary-of-Australasian-words-phrases-and-usages-with-those-aborigin_
 gutenberg_bookshelf:
 - New Zealand
 - Australia
